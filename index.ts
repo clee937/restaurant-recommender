@@ -1,7 +1,7 @@
 import restaurants from "./restaurants";
 
 const hour: number = new Date().getHours();
-// return the current hour in 24 hour UTC time
+// returns the current hour in 24 hour UTC time
 
 const dollarSigns = "$$";
 const deliveryTimeMax = 90;
